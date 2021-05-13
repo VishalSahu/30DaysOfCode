@@ -1,2 +1,3 @@
-# 30DaysOfCode
-Solution of hackerrrank
+<h1>30DaysOfCode</h1>
+  <br>
+<span>Solution of hackerrrank</span>
